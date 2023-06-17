@@ -1,1 +1,1 @@
-# AMAzing-site
+This webpage is a under the course project I summitted to my school. I simply modified and added more styles, enhance a little bit here applying the concepts that I have learned from following several onsite tutorials.
